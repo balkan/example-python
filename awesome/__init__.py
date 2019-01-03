@@ -13,3 +13,11 @@ def yet_other_func():
 
 def uncovered():
     return "NOCOV"
+
+
+def hiamina():
+    return "NOCOV"
+
+
+def bensenin():
+    return "NOCOV"
