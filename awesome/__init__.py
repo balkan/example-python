@@ -9,3 +9,7 @@ def some_other_func():
 
 def yet_other_func():
     return ":/"
+
+
+def uncovered():
+    return "NOCOV"

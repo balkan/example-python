@@ -1,4 +1,6 @@
 .coverage
 .coverage
+.coveralls.yaml
+.coveralls.yml
 awesome/__pycache__
 coverage.xml
