@@ -7,6 +7,5 @@ def frown():
 def some_other_func():
     return ":/"
 
-
 def yet_other_func():
     return ":/"
